@@ -5,7 +5,7 @@
 # Установка
 
 Склонируйте репозиторий:
-git clone https://github.com/your_username/your_repository.git
+git clone https://github.com/KarlXVll/Parser_hh_ru.git
 
 Установите зависимости:
 pip install -r requirements.txt
